@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsajeev&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsajeev" /> </p>
 
-- 🔭 I’m currently working on [Music Player](https://github.com/sauravsajeev/Music-Player-using-react.git)
+- 🔭 I’m currently working on [Portfolio Website](https://github.com/sauravsajeev/Music-Player-using-react.git)
 
-- 🌱 I’m currently learning **React.JS , AngularJS**
+- 🌱 I’m currently learning **ThreeJS**
 
 - 💬 Ask me about **HTML, CSS, Python,JS**
 
