@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/sauravsajeev/Music-Player-using-react.git)
 
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **HTML, CSS, Python,JS**
 
